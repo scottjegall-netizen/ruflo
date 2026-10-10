@@ -235,6 +235,11 @@
       "name": "ruflo-console",
       "source": "./plugins/ruflo-console",
       "description": "Early access: ruflo's cockpit as a Claude Code mod (function hooks) and the one /ruflo command for every ruflo mod \u2014 overview with health alerts, swarm topology, claims flow, federation map, plugin health, learning pipeline, MetaHarness radar, memory, cost gauge, agent timeline, approvals and events; a command palette for confirm-gated actions through the ruflo CLI; auto-opens where it docks; no network by default"
+    },
+    {
+      "name": "quant-research",
+      "source": "./plugins/quant-research",
+      "description": "Quant and econometrics support for finance research \u2014 regression diagnostics, panel data, event studies and results write-up in Python, R and Stata"
     }
   ]
 }

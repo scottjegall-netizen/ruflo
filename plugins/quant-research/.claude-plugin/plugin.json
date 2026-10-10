@@ -1,0 +1,22 @@
+{
+  "name": "quant-research",
+  "description": "Quant and econometrics support for finance research — regression diagnostics, panel data, event studies and results write-up in Python, R and Stata, with workings shown and assumptions flagged",
+  "version": "0.1.0",
+  "author": {
+    "name": "Scott",
+    "url": "https://github.com/scottjegall-netizen"
+  },
+  "homepage": "https://github.com/scottjegall-netizen/ruflo",
+  "license": "MIT",
+  "keywords": [
+    "finance",
+    "econometrics",
+    "regression",
+    "panel-data",
+    "event-study",
+    "python",
+    "r",
+    "stata",
+    "research"
+  ]
+}
